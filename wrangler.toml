@@ -2,5 +2,3 @@ name = "flash"
 compatibility_date = "2024-04-21"
 
 [vars]
-UPSTASH_REDIS_REST_URL = "https://usw1-fond-impala-34273.upstash.io"
-UPSTASH_REDIS_REST_TOKEN = "AYXhASQgZGJjOTljYTYtOTI5Mi00ODVjLWEwMWEtMzQwNTQ3Zjc5MmM3NGNkODNmYzAxNTllNDVjMTg5Mjk0OTMzYjk0MWMxZmQ="
